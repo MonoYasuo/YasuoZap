@@ -1,6 +1,6 @@
 
  ​{ 
- ​        ​"version"​: ​"1.0"​, 
+ ​        ​"version"​: ​"2.0"​, 
  ​        ​"download"​: ​"https://youtube.com/c/YasuoModz"​, 
  ​        ​"update"​: ​[ 
  ​                ​{ 
