@@ -1,19 +1,19 @@
 
  ​{ 
  ​        ​"version"​: ​"4.0"​, 
- ​        ​"download"​: ​"https://youtube.com/c/PolarModz%E3%82%81"​, 
+ ​        ​"download"​: ​"https://youtube.com/c/YasuoModz"​, 
  ​        ​"update"​: ​[ 
  ​                ​{ 
  ​                        ​"languaje"​: ​"en"​, 
- ​                        ​"changelog"​: ​"https://raw.githubusercontent.com/thepolarxs/PWA/main/changelog-en.html" 
+ ​                        ​"changelog"​: ​"https://raw.githubusercontent.com/MonoYasuo/YasuoZap/main/changelog-en.html" 
  ​                ​}​, 
  ​                ​{ 
  ​                        ​"languaje"​: ​"es"​, 
- ​                        ​"changelog"​: ​"https://raw.githubusercontent.com/thepolarxs/PWA/main/changelog-es.html" 
+ ​                        ​"changelog"​: ​"https://raw.githubusercontent.com/MonoYasuo/YasuoZap/main/changelog-es.html" 
  ​                ​}​, 
  ​                ​{ 
  ​                        ​"languaje"​: ​"pt"​, 
- ​                        ​"changelog"​: ​"https://raw.githubusercontent.com/thepolarxs/PWA/main/changelog-pt.html" 
+ ​                        ​"changelog"​: ​"https://raw.githubusercontent.com/MonoYasuo/YasuoZap/main/changelog-pt.html" 
  ​                ​} 
  ​        ​] 
  ​}
